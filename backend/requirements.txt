@@ -1,0 +1,8 @@
+flask
+opencv-python
+requests
+numpy
+google-cloud-vision
+ultralytics
+easyocr
+flask-cors
